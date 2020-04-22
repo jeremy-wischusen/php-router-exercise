@@ -1,0 +1,7 @@
+{
+  "require": {
+    "phpunit/phpunit": "^7",
+    "ext-curl": "*",
+    "ext-json": "*"
+  }
+}
